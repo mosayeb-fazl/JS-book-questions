@@ -8,4 +8,4 @@ let minutes=40
 let seconds=35
 let converthour= 60 / (minutes + seconds / 60) + hour
 let speed= kilometers/converthour
-console.log('the average speed is',spees)
+console.log('the average speed is',speed)

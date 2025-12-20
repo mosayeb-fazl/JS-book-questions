@@ -17,5 +17,5 @@ let d=55
 let f=5.9
 let X=(44.5*55 - 50.2*5.9) / (3.4*55 - 50.2*2.1)
 let Y=(3.4*5.9 - 44.5*2.1) / (3.4*55 - 50.2*2.1)
-console.log('The value of X is ',X)
+console.log('the value of X is ',X)
 console.log('The value of Y is ',Y)
